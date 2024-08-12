@@ -1,0 +1,1 @@
+这是一个spring boot项目的基于json交互的全局统一响应自动配置sdk
